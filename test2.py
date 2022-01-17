@@ -1,1 +1,1 @@
-test.py
+print("x")
